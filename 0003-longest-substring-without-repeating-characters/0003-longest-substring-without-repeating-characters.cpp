@@ -4,13 +4,13 @@ public:
         unordered_set<char> st;
         int l=0;
         int res=0;
-        for(int r=0;r<s.size();r++){
-            while(st.find(s[r])!=st.end()){
+        for(int i=0;i<s.size();i++){
+            while(st.find(s[i])!=st.end()){
                 st.erase(s[l]);
                 l++;
             }
-            st.insert(s[r]);
-            res=max(res,r-l+1);
+            st.insert(s[i]);
+            res=max(res,i-l+1);
         }
         return res;
     }
