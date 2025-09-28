@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avya0503/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
