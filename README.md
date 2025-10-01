@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avya0503/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Avya0503/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Avya0503/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
@@ -73,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Avya0503/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Avya0503/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/1054-complement-of-base-10-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
