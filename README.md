@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avya0503/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Avya0503/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Avya0503/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avya0503/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Avya0503/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Avya0503/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
