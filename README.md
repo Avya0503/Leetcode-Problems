@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avya0503/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Avya0503/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avya0503/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Avya0503/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Avya0503/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Avya0503/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
