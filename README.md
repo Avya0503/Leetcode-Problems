@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Avya0503/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Avya0503/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Avya0503/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Avya0503/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avya0503/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
