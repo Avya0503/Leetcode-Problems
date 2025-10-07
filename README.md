@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avya0503/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Avya0503/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Avya0503/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avya0503/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avya0503/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avya0503/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Avya0503/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Avya0503/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Avya0503/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Avya0503/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avya0503/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Avya0503/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
